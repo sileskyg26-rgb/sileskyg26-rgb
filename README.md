@@ -99,6 +99,10 @@ My professional development and ongoing initiatives are directed toward the foll
 
 ## GitHub Metrics
 <p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=sileskyg26-rgb&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="50%" />
+</p>
+<p align="center">
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=sileskyg26-rgb&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
   <img src="https://streak-stats.demolab.com?user=sileskyg26-rgb&theme=radical&hide_border=true" width="48%" />
 </p>
+
