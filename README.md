@@ -74,5 +74,5 @@ I'm currently investing my time in building a strong foundation for my future ca
 # 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sileskyg26-rgb&show_icons=true&theme=radical&hide_border=true&count_private=true" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sileskyg26-rgb&theme=radical&hide_border=true" width="49%"/>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=sileskyg26-rgb&theme=radical&hide_border=true" width="49%" />
 </p>
